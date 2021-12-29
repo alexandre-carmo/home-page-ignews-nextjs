@@ -1,1 +1,1 @@
-yarn add typescript @types/react #types/node -D
+![Screenshot](src/doc/images/home_ignews.png)
